@@ -9,6 +9,7 @@ public class Zach : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W))
         {
             Debug.Log("Zach says hi");
+            Debug.Log("Zach says bye");
         }
     }
 }
